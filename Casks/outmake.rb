@@ -1,6 +1,6 @@
 cask "outmake" do
-  version "0.8.6,20261106083646"
-  sha256 "2cf94f785ceec8d76fe8c7c62899e64bfffc045f994db09a6e5d7cbf6f7b1e9f"
+  version "0.8.7,20261109200452"
+  sha256 "d61bece695e135b4fd0337b2b557b1164f93777a9cf5a8f336d668b7e84cca74"
 
   url "https://outmake.app/updates/Outmake-#{version.csv.second}.dmg"
   name "Outmake"
